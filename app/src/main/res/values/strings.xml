@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">nested_layout_app</string>
+    <string name="app_goal">Favorite Twitter Searches</string>
+    <string name="text_input">Enter Twitter search query here</string>
+    <string name="text_input_query">Tag your query</string>
+    <string name="button_save">Save</string>
+    <string name="clear_tag">Clear tags</string>
+    <string name="tagged_searches">Tagged searches</string>
+    <string name="edit_button">Edit</string>
+
+    <string-array
+            name="strings_tagged_searches">
+        <item>AndroidFP</item>
+        <item>Deitel</item>
+        <item>Google</item>
+        <item>iPhoneFP</item>
+        <item>JavaFP</item>
+        <item>JavaHTP</item>
+
+        </string-array>
+
+
 </resources>
